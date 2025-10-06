@@ -1,4 +1,4 @@
-# Duo-Boon-Simulators
+# Duo Boon Simulators
 This is a hades 1 and hades 2 duo boon simulator where it lets the user add boons that can result to a Duo boon. This simulator mimics the functionality in the game per run. However weapons and weapon aspects restrictions are overlooked in this program. 
 
 Before downloading the file, please create a virtual environment and download flet. Here are the steps below.

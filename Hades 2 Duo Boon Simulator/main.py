@@ -5,12 +5,12 @@ from buttons import pick_boon, reset_boons, remove_boon
 #metadata for visuals
 GOD_META = {
     "Aphrodite":  {"emoji": "💗", "color": "#EC407A"},
-    "Apollo":     {"emoji": "🌟", "color": "#0FC50F"},
+    "Apollo":     {"emoji": "🌟", "color": "#E7EA48"},
     "Ares":       {"emoji": "🗡️", "color": "#E53935"},
     "Demeter":    {"emoji": "❄️", "color": "#8CECED"},
-    "Hephaestus": {"emoji": "⚒️", "color": "#E7EA48"},
-    "Hera":       {"emoji": "🌀", "color": "#8CECED"},
-    "Hestia":     {"emoji": "🔥", "color": "#7B1FA2"},
+    "Hephaestus": {"emoji": "⚒️", "color": "#F4F5BC"},
+    "Hera":       {"emoji": "🌀", "color": "#00918A"},
+    "Hestia":     {"emoji": "🔥", "color": "#E57035"},
     "Poseidon":   {"emoji": "🌊", "color": "#0288D1"},
     "Zeus":       {"emoji": "⚡", "color": "#FBC02D"},
 }

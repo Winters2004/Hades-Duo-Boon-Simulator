@@ -89,7 +89,7 @@ def main(page: ft.Page):
     )
     duo_card = ft.Card(
         content=ft.Container(
-            content=ft.Column([ft.Text("Available Duo Boons", size=18, weight="bold"), duo_column]),
+            content=ft.Column([ft.Text("Available Duo Boons", size=18, weight="bold"), duo_column], scroll="auto"),
             padding=20, 
             height=550, 
             width=300, 

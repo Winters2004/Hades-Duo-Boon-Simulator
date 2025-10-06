@@ -73,7 +73,7 @@ def main(page: ft.Page):
             padding=20, 
             height=550, 
             width=250, 
-            bgcolor="#A00707", 
+            bgcolor="#101D6B", 
             border_radius=8
         )
     )
@@ -83,7 +83,7 @@ def main(page: ft.Page):
             padding=20, 
             height=550, 
             width=300, 
-            bgcolor="#A00707", 
+            bgcolor="#101D6B", 
             border_radius=8
         )
     )
@@ -93,7 +93,7 @@ def main(page: ft.Page):
             padding=20, 
             height=550, 
             width=300, 
-            bgcolor="#A00707", 
+            bgcolor="#A101D6B", 
             border_radius=8
         )
     )

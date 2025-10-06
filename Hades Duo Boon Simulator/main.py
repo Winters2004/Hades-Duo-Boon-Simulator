@@ -90,7 +90,7 @@ def main(page: ft.Page):
     )
     duo_card = ft.Card(
         content=ft.Container(
-            content=ft.Column([ft.Text("Available Duo Boons", size=18, weight="bold", color="#FFCBD1"), duo_column]),
+            content=ft.Column([ft.Text("Available Duo Boons", size=18, weight="bold", color="#FFCBD1"), duo_column], scroll="auto"),
             padding=20, 
             height=550, 
             width=300, 
@@ -101,5 +101,6 @@ def main(page: ft.Page):
 
     page.add(ft.Row([choose_card, chosen_card, duo_card], 
                     alignment=ft.MainAxisAlignment.SPACE_AROUND, expand=True))
+
 
 ft.app(target=main)
